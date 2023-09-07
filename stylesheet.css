@@ -39,7 +39,24 @@ li {
  padding:33px 20px;
 }
 
+.header {
+  background-color :lightskyblue;
+  color: black;
+  height: 90px;
+}
+  
 .header-logo {
-  float: left;
   font-size:36px;
+  float: left;
   padding:20px 40px; 
+}
+
+.main {
+  background-color :lightblue;
+  height: 600px;
+}
+
+.footer {
+  background-color :stategray;
+  height: 270px;
+}
